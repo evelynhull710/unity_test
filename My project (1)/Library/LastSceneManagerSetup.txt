@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/HurricaneVR/TechDemo/Scenes/scene_examples.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
